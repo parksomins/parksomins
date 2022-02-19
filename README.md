@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&text=Somin-Github&fontColor=6d6a0a&fontSize=1rem&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&text=Somin-Github&fontColor=6d6a0a&fontSize=10rem&animation=fadeIn)
 
 
 <!--
